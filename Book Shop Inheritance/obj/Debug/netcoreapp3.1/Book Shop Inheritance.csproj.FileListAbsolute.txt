@@ -1,0 +1,13 @@
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\bin\Debug\netcoreapp3.1\Book Shop Inheritance.exe
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\bin\Debug\netcoreapp3.1\Book Shop Inheritance.deps.json
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\bin\Debug\netcoreapp3.1\Book Shop Inheritance.runtimeconfig.json
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\bin\Debug\netcoreapp3.1\Book Shop Inheritance.runtimeconfig.dev.json
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\bin\Debug\netcoreapp3.1\Book Shop Inheritance.dll
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\bin\Debug\netcoreapp3.1\Book Shop Inheritance.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\obj\Debug\netcoreapp3.1\Book Shop Inheritance.csprojAssemblyReference.cache
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\obj\Debug\netcoreapp3.1\Book Shop Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\obj\Debug\netcoreapp3.1\Book Shop Inheritance.AssemblyInfoInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\obj\Debug\netcoreapp3.1\Book Shop Inheritance.AssemblyInfo.cs
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\obj\Debug\netcoreapp3.1\Book Shop Inheritance.dll
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\obj\Debug\netcoreapp3.1\Book Shop Inheritance.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Book Shop Inheritance\obj\Debug\netcoreapp3.1\Book Shop Inheritance.genruntimeconfig.cache

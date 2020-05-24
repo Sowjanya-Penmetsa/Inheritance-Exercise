@@ -1,0 +1,13 @@
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\bin\Debug\netcoreapp3.1\Person and Child.exe
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\bin\Debug\netcoreapp3.1\Person and Child.deps.json
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\bin\Debug\netcoreapp3.1\Person and Child.runtimeconfig.json
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\bin\Debug\netcoreapp3.1\Person and Child.runtimeconfig.dev.json
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\bin\Debug\netcoreapp3.1\Person and Child.dll
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\bin\Debug\netcoreapp3.1\Person and Child.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\obj\Debug\netcoreapp3.1\Person and Child.csprojAssemblyReference.cache
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\obj\Debug\netcoreapp3.1\Person and Child.csproj.CoreCompileInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\obj\Debug\netcoreapp3.1\Person and Child.AssemblyInfoInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\obj\Debug\netcoreapp3.1\Person and Child.AssemblyInfo.cs
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\obj\Debug\netcoreapp3.1\Person and Child.dll
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\obj\Debug\netcoreapp3.1\Person and Child.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Exercises\Person and Child\obj\Debug\netcoreapp3.1\Person and Child.genruntimeconfig.cache
